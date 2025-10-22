@@ -7,7 +7,7 @@ order: 0
 ---
 
 <div style="text-align:center; margin-top:2rem;">
-  <img src="/assets/avatar.png" alt="Imran Khan" width="180" height="180" style="border-radius:50%;">
+  <img src="/assets/avatar2.png" alt="Imran Khan" width="180" height="180" style="border-radius:50%;">
   <h1>👋 Hi, I’m Imran Khan (Esapzai)</h1>
   <p><strong>Transportation Engineer | Researcher | Resilience & Sustainability Enthusiast</strong></p>
   <p>📍 Based in Bangkok, Thailand</p>
@@ -24,7 +24,7 @@ order: 0
 
   <h3>🔗 Explore My Work</h3>
   <ul>
-    <li><a href="/_tabs/about">About Me</a> – Learn more about my background, research, and experience</li>
+    <li><a href="/about">About Me</a> – Learn more about my background, research, and experience</li>
   </ul>
 </div>
 
