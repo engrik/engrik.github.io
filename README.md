@@ -1,43 +1,49 @@
-# Chirpy Starter
+# Imran Khan — Academic Website
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+This repository hosts my **personal academic website**, built using the [**Jekyll Chirpy Theme**](https://github.com/cotes2020/jekyll-theme-chirpy) and deployed through **GitHub Pages**.  
+🔗 **Live Site:** [https://engrik.github.io](https://engrik.github.io)
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+The website serves as a digital portfolio of my academic and professional work in **transportation engineering**, **resilience research**, and **sustainable infrastructure planning**.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 🧭 Overview
+This site showcases:
+- My academic background and research projects  
+- Publications, ongoing collaborations, and data-driven studies  
+- Teaching, leadership, and professional experience highlights  
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+---
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## 🧠 About Me
+I am **Imran Khan (Esapzai)**, a Transportation Engineer and Researcher.
 
-## Usage
+My master’s thesis, *“Multidimensional Resilience Assessment of Road Transport Infrastructure Using a Resilience Matrix–Based Bayesian Network: A Case Study of Khyber Pakhtunkhwa, Pakistan,”* developed a scalable and data-conscious approach for transport systems resilience evaluation.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+---
 
-## Contributing
+## 📁 Repository Structure
+| Folder / File | Purpose |
+|----------------|----------|
+| `_config.yml` | Website configuration (title, author info, links) |
+| `_pages/` | About, CV, Publications, Projects, and Contact pages |
+| `_posts/` | Research updates and academic reflections |
+| `assets/` | Images, icons, and custom CSS |
+| `index.md` | Homepage content |
+| `CNAME` | (Optional) Custom domain configuration |
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+---
 
-## License
+## 🧩 Technical Details
+- **Framework:** [Jekyll](https://jekyllrb.com/)  
+- **Theme:** [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)  
+- **Hosting:** [GitHub Pages](https://pages.github.com/)  
+- **Languages:** Markdown, HTML, YAML  
+- **License:** MIT License  
 
-This work is published under [MIT][mit] License.
+---
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🚀 Deployment Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/engrik/engrik.github.io
