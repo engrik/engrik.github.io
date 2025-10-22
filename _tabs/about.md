@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-### 👋 Hello, I’m Imran Khan (Esapzai)
+## Bio
 
 ---
 
