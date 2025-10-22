@@ -64,6 +64,8 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 **Data Analysis:** Regression, Machine Learning, Network Analysis, MCDM, Optimization 
 **Technical & Software:** AutoCAD Civil 3D, GIS, BIM, ETABS, GeNIe, VISSIM
 
+---
+
 ### Languages:  
 - Pashto (Native),
 - English (IELTS 7.5),
@@ -71,7 +73,7 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 - Arabic, Persian, & Japanese (Beginner)
 
 ---
-“Building resilient transport systems for a changing climate.”
+##### "Building resilient transport systems for a changing climate."
 ---
 
 
