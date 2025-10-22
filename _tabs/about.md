@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 2
 ---
-## Bio
 
 ### 👋 Hello, I’m Imran Khan (Esapzai)
 
@@ -11,7 +10,7 @@ order: 2
 
 I am a transportation engineer with expertise in **network science**, **transportation planning and modeling**, **sustainable and resilient transport**, **machine learning applications**, and **climate adaptation planning**.
 
-I completed my MSc in Transportation Engineering at the **Asian Institute of Technology (AIT)**, where my thesis developed a **Resilience Matrix–Based Bayesian Network** framework to evaluate the resilience of transport systems to flood and climate-related stressors. My work focuses on practical, data-driven approaches to improving transport system resilience in hazard-prone regions.
+I completed my MSc in Transportation Engineering at the **Asian Institute of Technology (AIT)**, where my thesis developed a **Resilience Matrix–Based Bayesian Network** framework to evaluate the resilience of transport systems to flood and climate-related stressors. This work focused on practical, data-driven approaches to improve transport systems' resilience in hazard-prone regions.
 
 ---
 
@@ -22,7 +21,7 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 - Network Science, Optimization, and Stochastic Modeling  
 - Climate Adaptation and Disaster-Resilient Cities  
 - Infrastructure Planning and Policy Analysis  
-- Bayesian Networks and Machine Learning Applications
+- Bayesian Statistics and Machine Learning Applications
 
 ---
 
@@ -43,8 +42,6 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 - **Hohai University International Summer Program**, China (2025)  
   Theme: Water Disaster Prevention and Mitigation under Climate Change  (Best Presentation Award)
 
-
-
 ---
 
 ### 🧭 Professional Experience
@@ -63,15 +60,18 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 
 ### 🎓 Skills
 
-**Technical & Software:** AutoCAD Civil 3D, GIS, BIM, ETABS, GeNIe, VISSIM  
 **Programming & Analysis:** Python, R  
-**Data Analysis:** Regression, Machine Learning, Network Analysis, MCDM, Optimization  
+**Data Analysis:** Regression, Machine Learning, Network Analysis, MCDM, Optimization 
+**Technical & Software:** AutoCAD Civil 3D, GIS, BIM, ETABS, GeNIe, VISSIM
 
-**Languages:**  
-- Pashto (Native), English (IELTS 7.5), Urdu/Hindi (Bilingual), Arabic & Japanese (Beginner)
+### Languages:  
+- Pashto (Native),
+- English (IELTS 7.5),
+- Urdu/Hindi (Bilingual),
+- Arabic, Persian, & Japanese (Beginner)
 
 ---
-> “Building resilient transport systems for a changing climate.”
+“Building resilient transport systems for a changing climate.”
 ---
 
 
