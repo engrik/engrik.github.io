@@ -4,6 +4,7 @@ title: "Home"
 icon: fas fa-home
 order: 0
 # Index page
+<meta name="google-site-verification" content="xRs0erW7LOC6G4zynNHD_wrwPuXzgi3j9uEhwu0zPvw" />
 ---
 
 <div style="text-align:center; margin-top:2rem;">
