@@ -22,18 +22,6 @@ My master’s thesis, *“Multidimensional Resilience Assessment of Road Transpo
 
 ---
 
-## 📁 Repository Structure
-| Folder / File | Purpose |
-|----------------|----------|
-| `_config.yml` | Website configuration (title, author info, links) |
-| `_pages/` | About, CV, Publications, Projects, and Contact pages |
-| `_posts/` | Research updates and academic reflections |
-| `assets/` | Images, icons, and custom CSS |
-| `index.md` | Homepage content |
-| `CNAME` | (Optional) Custom domain configuration |
-
----
-
 ## 🧩 Technical Details
 - **Framework:** [Jekyll](https://jekyllrb.com/)  
 - **Theme:** [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)  
