@@ -11,11 +11,11 @@ order: 2
 ### Journal Articles
 
 - **Imran Khan**, *Ayushman Bhatt*  
-  **ASSESSING COMPREHENSIVE RESILIENCE OF ROAD TRANSPORT SYSTEMS: CASE OF KHYBER PAKHTUNKHWA, PAKISTAN**  
+  **Assessing Comprehensive Resilience Of Road Transport Systems: Case Of Khyber Pakhtunkhwa, Pakistan**  
   *(Manuscript Submitted to Transportation Reasearch: Part D)*
 
 - **Imran Khan**, *Ayushman Bhatt*  
-  **RESILIENCE ASSESSMENT OF ROAD TRANSPORT SYSTEMS: A SYSTEMATIC REVIEW AND MULTIDIMENSIONAL FRAMEWORK**  
+  **Resilience Assessment Of Road Transport Systems: A Systematic Review And Multidimensional Framework**  
   *(Manuscript under preperation)*
 
 ---
