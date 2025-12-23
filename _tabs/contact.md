@@ -26,5 +26,3 @@ School of Engineering and Technology
 Bangkok, Thailand
 
 ---
-
-> *For details on my research background and publications, please refer to the **About** and **Publications** pages.*
