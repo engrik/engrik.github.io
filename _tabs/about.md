@@ -23,7 +23,7 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 - Infrastructure Planning and Policy Analysis  
 - Bayesian Statistics and Machine Learning Applications
 
-For an overview of my publications, see [**Publications**](/publications.md).  
+For an overview of my publications, see [**Publications**](/publications/).  
 
 ---
 
