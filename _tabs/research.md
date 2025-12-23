@@ -6,21 +6,17 @@ order: 2
 
 ## Publications
 
-This page lists my academic publications and scholarly work.  
-For an overview of my background and research training, see the **About** page.  
-A concise summary of my profile is available on the **Home** page.
-
 ---
 
 ### Journal Articles
 
-- **Imran Khan**, *et al.*  
-  **A Multidimensional Resilience Matrix for Road Transport Systems: Concepts, Indicators, and Framework Development.**  
-  *(Manuscript under preparation)*
+- **Imran Khan**, *Ayushman Bhatt*  
+  **ASSESSING COMPREHENSIVE RESILIENCE OF ROAD TRANSPORT SYSTEMS: CASE OF KHYBER PAKHTUNKHWA, PAKISTAN**  
+  *(Manuscript Submitted to Transportation Reasearch: Part D)*
 
-- **Imran Khan**, *et al.*  
-  **Operationalizing Road Transport Resilience Using Bayesian Network Modeling under Flood Hazards.**  
-  *(Manuscript under preparation)*
+- **Imran Khan**, *Ayushman Bhatt*  
+  **RESILIENCE ASSESSMENT OF ROAD TRANSPORT SYSTEMS: A SYSTEMATIC REVIEW AND MULTIDIMENSIONAL FRAMEWORK**  
+  *(Manuscript under preperation)*
 
 ---
 
@@ -37,12 +33,3 @@ A concise summary of my profile is available on the **Home** page.
 
 ---
 
-### Working Papers & Ongoing Manuscripts
-
-- Transport system resilience indicators across disaster phases  
-- Bayesian Network–based infrastructure resilience modeling  
-- Spatial typologies of road transport resilience under climate stressors
-
----
-
-> *For details on my research interests, methods, and professional experience, please refer to the **About** page.*
