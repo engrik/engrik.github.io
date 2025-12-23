@@ -23,9 +23,12 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 - Infrastructure Planning and Policy Analysis  
 - Bayesian Statistics and Machine Learning Applications
 
+For an overview of my publications, see [**Publications**](/publications).  
+
 ---
 
 ### 🔬 Education
+
 
 - **MSc in Transportation Engineering**, Asian Institute of Technology, Thailand (2023–2025)  
   Thesis: *Multidimensional Resilience Assessment of Road Transport Systems Using a Resilience Matrix-Based Bayesian Network: A Case Study of Khyber Pakhtunkhwa, Pakistan*  
@@ -41,6 +44,7 @@ I completed my MSc in Transportation Engineering at the **Asian Institute of Tec
 
 - **Hohai University International Summer Program**, China (2025)  
   Theme: Water Disaster Prevention and Mitigation under Climate Change  (Best Presentation Award)
+
 
 ---
 
