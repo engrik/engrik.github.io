@@ -30,8 +30,3 @@ My master’s thesis, *“Multidimensional Resilience Assessment of Road Transpo
 - **License:** MIT License  
 
 ---
-
-## 🚀 Deployment Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/engrik/engrik.github.io
