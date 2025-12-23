@@ -4,10 +4,6 @@ icon: fas fa-book
 order: 2
 ---
 
-## Publications
-
----
-
 ### Journal Articles
 
 - **Imran Khan**, *Ayushman Bhatt*  
