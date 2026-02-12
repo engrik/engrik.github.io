@@ -17,10 +17,8 @@ order: 0
 
 <div style="max-width:700px; margin:auto; font-size:1.05rem; line-height:1.6;">
   <p>
-    I specialize in <strong>transport system resilience</strong>, <strong>network analysis</strong>, <strong>sustainable logistics and supply chains</strong>
-    <strong>transportation planning</strong>,
-    <strong>sustainable infrastructure</strong>, and <strong>climate adaptation</strong>. My work integrates <strong>Bayesian Networks</strong>, 
-    <strong>machine learning</strong>, and <strong>data-driven methods</strong> to assess and improve the resilience of road transport systems in hazard-prone regions.
+    My work and interest comprise <strong>sustainable and resiliet transport systems</strong>, <strong>network analysis and optimization</strong>, <strong>multimodal transport modeling</strong>
+    <strong>transport economics</strong>,<strong>choice modeling</strong>, and <strong>climate adaptation</strong>.
   </p>
 
   <h3>🔗 Explore My Work</h3>
