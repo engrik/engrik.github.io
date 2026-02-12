@@ -17,8 +17,8 @@ order: 0
 
 <div style="max-width:700px; margin:auto; font-size:1.05rem; line-height:1.6;">
   <p>
-    My work and interests comprise <strong>sustainable and resiliet transport systems</strong>, <strong>network analysis and optimization</strong>, <strong>multimodal transport modeling</strong>
-    <strong>transport economics</strong>,<strong>choice modeling</strong>, and <strong>climate adaptation</strong>.
+    My work and interests comprise <strong>sustainable and resiliet transport systems</strong>, <strong>network analysis and optimization</strong>, <strong>multimodal transport modeling</strong>,
+    <strong>transport economics and policy</strong>, <strong>choice modeling</strong>, and <strong>climate adaptation</strong>. My professional experience spans academic research, public-sector governance, and private-sector engineering practice, providing an interdisciplinary perspective.
   </p>
 
   <h3>🔗 Explore My Work</h3>
