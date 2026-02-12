@@ -30,5 +30,5 @@ order: 0
 <hr style="margin:2rem 0;">
 
 <div style="text-align:center; font-style:italic; margin-bottom:2rem;">
-  “Building resilient transport systems for a changing climate.”
+  “Building sustainable transport systems”
 </div>
