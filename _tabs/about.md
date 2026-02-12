@@ -8,20 +8,22 @@ order: 1
 
 ---
 
-I am a transportation engineer with expertise in **network science**, **transportation planning and modeling**, **sustainable and resilient transport**, **machine learning applications**, and **climate adaptation planning**.
+I am a transportation engineer with expertise in **transportation planning and modeling**, **sustainable and resilient transport systems**, **network analysis and optimization**, **machine learning applications in transport**, and **transport economics and policy**.
 
-I completed my MSc in Transportation Engineering at the **Asian Institute of Technology (AIT)**, where my thesis developed a **Resilience Matrix–Based Bayesian Network** framework to evaluate the resilience of transport systems to flood and climate-related stressors. This work focused on practical, data-driven approaches to improve transport systems' resilience in hazard-prone regions.
+I completed my MSc in Transportation Engineering at the **Asian Institute of Technology (AIT)**, where my thesis developed a **Resilience Matrix–Based Bayesian Network** framework to evaluate the resilience of transport systems to flood and climate-related stressors. This work integrated technical, functional, socioeconomic, organizational, and environmental dimensions and focused on practical, data-driven approaches to improve sustainable transport planning in hazard-prone regions.
 
 ---
 
 
 ### 💡 Research Interests
 
-- Road Transport System Resilience and Sustainability  
-- Network Science, Optimization, and Stochastic Modeling  
+- Sustainable and Resilient Transport Systems
+- Transportation Modeling and Forecasting
+- Network Analysis, Optimization, and Stochastic Modeling
+- Multimodal Transport Systems
 - Climate Adaptation and Disaster-Resilient Cities  
-- Infrastructure Planning and Policy Analysis  
-- Bayesian Statistics and Machine Learning Applications
+- Transport Economics and Policy 
+- Machine Learning Applications in Transportation
 
 For an overview of my publications, see [**Publications**](/publications/)
 
@@ -33,8 +35,8 @@ For an overview of my publications, see [**Publications**](/publications/)
 - **MSc in Transportation Engineering**, Asian Institute of Technology, Thailand (2023–2025)  
   Thesis: *Multidimensional Resilience Assessment of Road Transport Systems Using a Resilience Matrix-Based Bayesian Network: A Case Study of Khyber Pakhtunkhwa, Pakistan*  
 
-- **MSc in Civil Engineering (Structures)**, University of Engineering and Technology Peshawar, Pakistan (2017–2023)  
-  Thesis: *Seismic Risk Assessment of School Buildings in District Swat, Pakistan*  
+- **MSc in Civil Engineering (Coursework)**, University of Engineering and Technology Peshawar, Pakistan (2017–2023)  
+  Research Project: *Seismic Risk Assessment of School Buildings in District Swat, Pakistan*  
 
 - **BSc in Civil Engineering**, University of Engineering and Technology Peshawar, Pakistan (2012–2016)  
   Final Year Project: *Traffic Speed Behavior and Zonation in Peshawar, Pakistan*  
@@ -58,22 +60,27 @@ For an overview of my publications, see [**Publications**](/publications/)
   - Public service delivery monitoring, stakeholder coordination, grievance redressal  
 
 - **Assistant Resident Engineer**, Meinhardt Pakistan Pvt. Ltd. (2017–2018)  
-  - Supervised civil construction, contract administration, cost control
+  - Supervised civil construction, contract administration, and cost control
 
 ---
 
-### 🎓 Skills
+### 🎓 Methods & Technical Expertise
 
-**Programming & Analysis:** Python, R  
-**Data Analysis:** Regression, Machine Learning, Network Analysis, MCDM, Optimization 
-**Technical & Software:** AutoCAD Civil 3D, GIS, BIM, ETABS, GeNIe, VISSIM
+-  **Quantitative Methods:**  
+  Statistical Analysis, Machine Learning, Bayesian Networks, Difference-in-Differences (DiD), Multi-Criteria Decision Making (MCDM), Network Analysis, Geospatial Analysis  
+
+-  **Optimization & Simulation:**  
+  Linear and Integer Programming, Network Modelling, Traffic Simulation  
+
+-  **Programming & Tools:**  
+  Python (pandas, NumPy, scikit-learn, NetworkX, OSMnx, PuLP), R, MATLAB, Gurobi, HiGHS, GIS, GeNIe, VISSIM, MATSim, Aimsun Next, AutoCAD Civil 3D
+
 
 ---
 
 ### Languages:  
-- Pashto (Native),
 - English (IELTS 7.5),
-- Urdu/Hindi (Bilingual),
+- Pashto/Urdu/Hindi (Native),
 - Arabic, Persian, & Japanese (Beginner)
 
 ---
