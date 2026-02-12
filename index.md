@@ -17,7 +17,7 @@ order: 0
 
 <div style="max-width:700px; margin:auto; font-size:1.05rem; line-height:1.6;">
   <p>
-    My work and interest comprise <strong>sustainable and resiliet transport systems</strong>, <strong>network analysis and optimization</strong>, <strong>multimodal transport modeling</strong>
+    My work and interests comprise <strong>sustainable and resiliet transport systems</strong>, <strong>network analysis and optimization</strong>, <strong>multimodal transport modeling</strong>
     <strong>transport economics</strong>,<strong>choice modeling</strong>, and <strong>climate adaptation</strong>.
   </p>
 
